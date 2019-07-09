@@ -16,7 +16,7 @@ Function, that check string for a palindrome:
 `isPalindrome('Другая строка'); // false`  
 
 # Anagram.js
-A function that checks two lines for an anagram
+A function that checks two lines for an anagram  
 `an('thing', 'NiGht'); // true`  
 `an('dog', 'god'); // true`  
 `an('wrong', 'answer'); // false`  
